@@ -7,6 +7,10 @@ class Anagram
   end
 
   def match
+    if
+
+    else
+      return [] #empty array, as no anagram 
   end
 
 end
