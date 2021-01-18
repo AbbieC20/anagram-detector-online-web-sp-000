@@ -6,14 +6,11 @@ class Anagram
     @word = word
   end
 
-  def match
-    if 
-
-    else
-      return [] #empty array, as no anagram
-  end
+  def match(possible_anagrams)
+    
 
 end
+
 
 
 #should compare word passed in, against an array
