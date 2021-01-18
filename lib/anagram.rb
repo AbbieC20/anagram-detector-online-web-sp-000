@@ -8,9 +8,9 @@ class Anagram
 
   def match
     if
-
+      
     else
-      return [] #empty array, as no anagram 
+      return [] #empty array, as no anagram
   end
 
 end
