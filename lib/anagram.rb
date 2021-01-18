@@ -7,7 +7,9 @@ class Anagram
   end
 
   def match(possible_anagrams)
-    
+    correct_anagrams = []
+    possible_anagrams.each do |words|
+      
 
 end
 
