@@ -13,7 +13,7 @@ class Anagram
         correct_anagrams << words
       end
     return correct_anagrams
-  end 
+  end
   
 end
 
