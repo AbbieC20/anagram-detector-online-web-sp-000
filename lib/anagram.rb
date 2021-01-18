@@ -1,4 +1,5 @@
-
+class Anagram
+end 
 
 
 #should detect no matches
