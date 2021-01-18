@@ -1,9 +1,11 @@
 class Anagram
 
+  attr_accessor :word
+
   def initialize
   end
 
-  def match 
+  def match
   end
 
 end
