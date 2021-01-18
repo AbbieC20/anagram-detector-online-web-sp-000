@@ -12,9 +12,10 @@ class Anagram
       if words.split == @word.split
         correct_anagrams << words
       end
+    end
     return correct_anagrams
   end
-  
+
 end
 
 
